@@ -12,3 +12,59 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+
+#site_header{
+  background-color: #ff8523;
+  margin: 0px;
+  padding: 30px;
+
+}
+
+ body {
+  background: #dddddd;
+  border: 2px solid #ffd24a;
+  padding: 0px;
+  margin: 10px;
+  font-family: sans-serif;
+  line-height: 1.6;
+
+
+}
+.main_navigation a{
+border: 1px solid white;
+padding: 5px 25px 5px 25px;
+font-size: 25px;
+color: white;
+
+}
+
+body> div h2{
+  color: #1fabe5;
+}
+h2{
+  padding: 30px;
+}
+
+#page_content{
+  background: white;
+  margin-top: -25px;
+
+}
+h3{
+  color: #1fabe5;
+}
+
+ul{
+  font-weight: bold;
+  border-bottom: 3px solid#dddddd;
+
+}
+table{
+      border-collapse: collapse;
+
+}
+table, th, td {
+    border: 1px  solid#1fabe5;
+    padding: 15px;
+    text-align: left;
+}
